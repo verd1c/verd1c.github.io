@@ -1,23 +1,54 @@
 [
     {
-        "Kappa": "https://i.imgur.com/3NRg5uE.png"
+        "name"  : "Kappa",
+        "src"   : "https://i.imgur.com/3NRg5uE.png"
     },
     {
-        "D:": "https://i.imgur.com/3oanZWR.png"
+        "name"  : "D:",
+        "src"   : "https://i.imgur.com/3oanZWR.png"
     },
     {
-        "FeelsBadMan": "https://i.imgur.com/uwEmGc1.png"
+        "name"  : "FeelsBadMan",
+        "src"   : "https://i.imgur.com/uwEmGc1.png"
     },
     {
-        "gachiGASM": "https://i.imgur.com/6I4uyna.png"
+        "name"  : "gachiGASM",
+        "src"   : "https://i.imgur.com/6I4uyna.png"
     },
     {
-        "haHAA": "https://i.imgur.com/FZAihjJ.png"
+        "name"  : "haHAA",
+        "src"   : "https://i.imgur.com/FZAihjJ.png"
     },
     {
-        "monkaS": "https://i.imgur.com/fDMu1RB.png"
+        "name"  : "monkaS",
+        "src"   : "https://i.imgur.com/fDMu1RB.png"
     },
     {
-        "Sadge": "https://i.imgur.com/7l5o7VC.png"
+        "name"  : "Sadge",
+        "src"   : "ttps://i.imgur.com/7l5o7VC.png"
+    },
+    {
+        "name"  : "cmonBruh",
+        "src"   : "https://i.imgur.com/kKgIArf.png"
+    },
+    {
+        "name"  : "COPIUM",
+        "src"   : "https://i.imgur.com/HEpy77n.png"
+    },
+    {
+        "name"  : "KEKW",
+        "src"   : "https://i.imgur.com/OeWiish.png"
+    },
+    {
+        "name"  : "OMEGALUL",
+        "src"   : "https://i.imgur.com/V9WdtWI.png"
+    },
+    {
+        "name"  : "Pog",
+        "src"   : "https://i.imgur.com/InYSbsc.png"
+    },
+    {
+        "name"  : "TriHard",
+        "src"   : "https://i.imgur.com/FbhopmG.png"
     }
 ]
